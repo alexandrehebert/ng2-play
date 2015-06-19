@@ -1,5 +1,5 @@
 import {ComponentAnnotation as Component, ViewAnnotation as View, Event, NgIf as If, bootstrap, bind} from 'angular2/angular2';
-import {routerInjectables, RouterOutlet, RouterLink, RootRouter, Router, Pipeline, RouteConfig} from 'angular2/router';
+import {routerInjectables, RouterOutlet, RouterLink, RouteConfig} from 'angular2/router';
 import {Route1, Route2} from 'routes';
 
 @Component({
